@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:
+  - [Grinding stats](github.com/drekdrek/grinding-stats), a plugin for openplanet that keeps track of some stats
+
+📫 How to reach me:
+  - Discord: DreK#9045
+
 <!--
 **drekdrek/drekdrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
