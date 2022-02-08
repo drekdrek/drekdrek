@@ -5,7 +5,7 @@
 
 📫 How to reach me:
   - Discord: DreK#9045
-
+  - im dont use any other `fancy` social media sites, but might have an account.
 <!--
 **drekdrek/drekdrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
