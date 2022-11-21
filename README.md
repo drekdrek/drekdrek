@@ -4,8 +4,8 @@
   - [Grinding stats](https://github.com/drekdrek/grinding-stats), a plugin for openplanet that keeps track of some stats
 
 📫 How to reach me:
+  - Email: mailto:owen@owenhalliday.net
   - Discord: DreK#9045
-  - i dont use any other `fancy` social media sites, but might have an account.
 <!--
 **drekdrek/drekdrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
