@@ -5,7 +5,7 @@
 
 📫 How to reach me:
   - Email: [owen@owenhalliday.net](mailto:owen@owenhalliday.net) 
-  - Discord: DreK#9045
+  - Discord: heyimdrek
 <!--
 **drekdrek/drekdrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
