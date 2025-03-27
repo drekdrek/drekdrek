@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on:
   - [Grinding stats](https://github.com/drekdrek/grinding-stats), a plugin for openplanet that keeps track of some stats
-  - [Dayhist](https://github.com/drekdrek/dayhist), a website for keeping track of Spotify *Daylists*
 
 📫 How to reach me:
   - Email: [owen@owenhalliday.net](mailto:owen@owenhalliday.net) 
